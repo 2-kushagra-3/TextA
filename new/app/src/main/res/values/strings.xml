@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="hint_username">Enter your e-mail id</string>
+    <string name="hint_password">Enter your password</string>
+    <string name="label_btn_login">Login</string>
+    <string name="label_btn_loginasguest">Login as guest</string>
+    <string name="rb_rem">Remember me</string>
+    <string name="link_page_text">Link page text</string>
+
+</resources>
